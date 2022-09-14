@@ -1,0 +1,65 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+    padding: 10px;
+    outline: 2px solid black;
+    
+  }
+  
+  /* target the class of inline-block below */
+  .inline-block {
+    display: inline-block;
+    padding: 25px;
+    background-color: darkgray;
+   
+  }
+  
+  /* target the class of .left below */
+  .left1 {
+    height: 500px;
+    float: left;
+    background-color: rgb(235, 233, 233);
+    width: 30%;
+    text-align: center;
+    outline: 2px solid black;
+    display: block;
+  }
+
+    .left2 {
+      height: 500px;
+      float: left;
+      background-color: rgb(235, 233, 233);
+      width: 30%;
+      text-align: center;
+      outline: 2px solid black;
+      display: flexbox;
+      
+      
+      
+    }
+  
+  /* target the class of .right below */
+  .right {
+    height: 500px;
+    float: left;
+    background-color: rgba(235, 233, 233, 0.77);
+    width: 70%;
+    text-align: center;
+    outline: 2px solid black;
+  
+    
+  }
+  
+  .card {
+    display: inline-block;
+    background-color: #c6c6c6;
+    border-radius: 5px;
+    height: 200px;
+    width: 150px;
+    margin: 35px;
+    margin-top: 50px;
+    
+  
+  }
+
+ 
