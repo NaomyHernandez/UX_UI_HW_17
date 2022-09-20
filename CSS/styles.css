@@ -185,18 +185,14 @@ border-radius: 8px;
   
 }
 
+.icons{
+  display: inline-flex;
+}
+
 #linkedin{
   width: 24px;
-  height: auto;
-  position: absolute;
-
 }
-  
 #gmail{
   width: 24px;
-  height: auto;
-  position: absolute;
-
 }
-  
 
